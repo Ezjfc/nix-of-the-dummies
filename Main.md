@@ -11,7 +11,7 @@ Nix of the Dummies, by the Dummies, for the Dummies.
 閱讀順序建議：
 - **非 NixOS 用戶但希望瞭解 Nix 生態的中階程序員（或其他人士）**
 	1. [[Main#序章： Nix 包裹管理器]]
-	2. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs]]
+	2. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs|第壹章： Nix Flakes 、 nix 指令及 Nixpkgs]]
 	3. [[Main#第貳章： Nix 開發環境殼層]]
 	4. [[Main#第叄章： Nix REPL 及 Nix 語言]]
 	5. [[Main#第肆章： NixOS 模組系統及 Nixpkgs 覆蓋層]]
@@ -20,7 +20,7 @@ Nix of the Dummies, by the Dummies, for the Dummies.
 - **非 NixOS 用戶且多語學習者：**
 	1. [[Main#^89f05b|《百秒 Nix 介紹》— Fireship, 2022]]
 	2. [[Main#序章： Nix 包裹管理器]]
-	3. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs]]
+	2. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs|第壹章： Nix Flakes 、 nix 指令及 Nixpkgs]]
 	4. [[Main#第貳章： Nix 開發環境殼層]]
 	5. [[Main#第叄章： Nix REPL 及 Nix 語言]]
 	6. [[Main#^7091e7|《 Nix 基本原理： Flakes 版》— Tony Finn, 2024]]
@@ -30,7 +30,7 @@ Nix of the Dummies, by the Dummies, for the Dummies.
 - **NixOS 新用戶：**
 	1. [[Main#第叄章： Nix REPL 及 Nix 語言]]
 	2. [[Main#第肆章： NixOS 模組系統及 Nixpkgs 覆蓋層]]
-	3. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs]]
+	2. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs|第壹章： Nix Flakes 、 nix 指令及 Nixpkgs]]
 	4. [[Main#附錄貳： 筆者常用參考頁面]]
 	5. [[Main#第貳章： Nix 開發環境殼層]]
 	6. [[Main#附錄壹： 英文學習資料]]
@@ -38,7 +38,7 @@ Nix of the Dummies, by the Dummies, for the Dummies.
 	1. [[Main#第叄章： Nix REPL 及 Nix 語言]]
 	2. [[Main#第肆章： NixOS 模組系統及 Nixpkgs 覆蓋層]]
 	3. [[Main#^f7473a|《 Nix 生態官方文檔 》— Nix documentation team]]
-	4. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs]]
+	2. [[Main#第壹章： Nix Flakes 、 `nix` 指令及 Nixpkgs|第壹章： Nix Flakes 、 nix 指令及 Nixpkgs]]
 	5. [[Main#附錄貳： 筆者常用參考頁面]]
 	6. [[Main#^7091e7|《 Nix 基本原理： Flakes 版》— Tony Finn, 2024]]
 
